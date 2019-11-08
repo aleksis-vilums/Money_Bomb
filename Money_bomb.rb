@@ -1,4 +1,4 @@
-require 'gosu
+require 'gosu'
 
 class Player
     attr_reader :score, :alive
